@@ -1,4 +1,2 @@
 ## labs:
-- Conflits de Git
-- Upload files
-- 
+**Internationalisation (Lang) :** 
