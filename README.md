@@ -5,6 +5,17 @@ _class: lead
 paginate: true
 backgroundColor: #ffffff
 color: #5B2C6F
+style: |
+  img {
+    max-width: 80%;
+    max-height: 65vh;
+    display: block;
+    margin: 1em auto;
+    object-fit: contain;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
 ---
 
 <!-- Page de garde -->
@@ -32,8 +43,7 @@ Dans ce **Sprint 2**, on a intégré le **back office/admin**, pour la **gestion
 
 ## Méthodologie : Scrum
 
-<img src="images_presentation/scrum.png"
-     style="display:block;margin:auto;max-width:70%;max-height:60vh;object-fit:contain;"/> 
+![Scrum](images_presentation/scrum.png)
 
 **J’ai travaillé par Scrum :**  
 - Organisation du travail en sprints courts  
@@ -43,8 +53,8 @@ Dans ce **Sprint 2**, on a intégré le **back office/admin**, pour la **gestion
 ---
 
 ## Méthodologie : Design Thinking
-<img src="images_presentation/design_thinking.png"
-     style="display:block;margin:auto;max-width:70%;max-height:60vh;object-fit:contain;"/>
+
+![Design Thinking](images_presentation/design_thinking.png)
 
 **J’ai travaillé par Design Thinking :**  
 - Conception centrée sur l’utilisateur  
@@ -55,9 +65,7 @@ Dans ce **Sprint 2**, on a intégré le **back office/admin**, pour la **gestion
 
 ## Fonctionnalités principales
 
-<img src="images_presentation/admin_use_cases.png"
-     style="display:block;margin:auto;max-width:85%;max-height:70vh;">
-
+![Use Cases Admin](images_presentation/admin_use_cases.png)
 
 ---
 
@@ -73,19 +81,15 @@ Dans ce **Sprint 2**, on a intégré le **back office/admin**, pour la **gestion
 
 ## Maquette réalisée
 
-<img src="images_presentation/maquettes_form_article.png"
-     style="display:block;margin:auto;max-width:80%;max-height:65vh;object-fit:contain;"/>
+![Maquette Form Article](images_presentation/maquettes_form_article.png)
 
 **Validation de maquette avec : la formatrice Mme Fatine Chehab**
-
 
 ---
 
 ## Diagramme de classe
 
-<img src="images_presentation/diagram_class.png"
-     style="display:block;margin:auto;max-width:80%;max-height:65vh;object-fit:contain;"/>
-
+![Diagramme de Classe](images_presentation/diagram_class.png)
 
 ---
 
