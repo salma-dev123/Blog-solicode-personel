@@ -32,7 +32,8 @@ Dans ce **Sprint 2**, on a intégré le **back office/admin**, pour la **gestion
 
 ## Méthodologie : Scrum
 
-<img src="images_presentation/scrum.png" style="display:block;margin:auto;max-width:70%;">
+<img src="images_presentation/scrum.png"
+     style="display:block;margin:auto;max-width:80%;max-height:60vh;">
 
 **J’ai travaillé par Scrum :**  
 - Organisation du travail en sprints courts  
@@ -42,7 +43,8 @@ Dans ce **Sprint 2**, on a intégré le **back office/admin**, pour la **gestion
 ---
 
 ## Méthodologie : Design Thinking
-<img src="images_presentation/design_thinking.png" style="display:block;margin:auto;max-width:70%;">
+<img src="images_presentation/design_thinking.png"
+     style="display:block;margin:auto;max-width:80%;max-height:60vh;">
 
 **J’ai travaillé par Design Thinking :**  
 - Conception centrée sur l’utilisateur  
@@ -53,7 +55,9 @@ Dans ce **Sprint 2**, on a intégré le **back office/admin**, pour la **gestion
 
 ## Fonctionnalités principales
 
-<img src="images_presentation/admin_use_cases.png" style="display:block;margin:auto;max-width:70%;">
+<img src="images_presentation/admin_use_cases.png"
+     style="display:block;margin:auto;max-width:85%;max-height:70vh;">
+
 
 ---
 
@@ -69,13 +73,17 @@ Dans ce **Sprint 2**, on a intégré le **back office/admin**, pour la **gestion
 
 ## Maquette réalisée
 
-<img src="images_presentation/maquettes_form_article.png" style="display:block;margin:auto;max-width:80%;">
+<img src="images_presentation/maquettes_form_article.png"
+     style="display:block;margin:auto;max-width:90%;max-height:70vh;">
+
 
 ---
 
 ## Diagramme de classe
 
-<img src="images_presentation/diagram_class.png" style="display:block;margin:auto;max-width:80%;">
+<img src="images_presentation/diagram_class.png"
+     style="display:block;margin:auto;max-width:90%;max-height:70vh;">
+
 
 ---
 

@@ -59,12 +59,22 @@ direction LR
         +DateTime updated_at
     }
 
+    class Comment {
+        +Long id
+        +Text content
+        +Enum status
+        +DateTime created_at
+        +DateTime updated_at
+    }
+
     %% Relations
     User "1" -- "0..*" Article : writes
     User "*" -- "*" Role : has
     User "1" -- "0..*" Video : uploads
+    User "1" -- "0..*" Comment : posts
 
     Category "*" -- "*" Article : classifies
 
     Article "1" -- "0..*" Video : has
+    Article "1" -- "0..*" Comment : receives
     Article "*" -- "*" Tag : labeled_with
