@@ -76,6 +76,8 @@ Dans ce **Sprint 2**, on a intégré le **back office/admin**, pour la **gestion
 <img src="images_presentation/maquettes_form_article.png"
      style="display:block;margin:auto;max-width:90%;max-height:70vh;">
 
+**Validation de maquette avec : la formatrice Mme Fatine Chehab**
+
 
 ---
 
